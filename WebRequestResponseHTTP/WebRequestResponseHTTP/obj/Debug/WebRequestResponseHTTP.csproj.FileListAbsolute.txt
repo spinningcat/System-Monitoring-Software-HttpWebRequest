@@ -1,0 +1,6 @@
+c:\users\helldamn\documents\visual studio 2015\Projects\WebRequestResponseHTTP\WebRequestResponseHTTP\bin\Debug\WebRequestResponseHTTP.exe.config
+C:\Users\helldamn\documents\visual studio 2015\Projects\WebRequestResponseHTTP\WebRequestResponseHTTP\obj\Debug\WebRequestResponseHTTP.csprojResolveAssemblyReference.cache
+C:\Users\helldamn\documents\visual studio 2015\Projects\WebRequestResponseHTTP\WebRequestResponseHTTP\bin\Debug\WebRequestResponseHTTP.exe
+C:\Users\helldamn\documents\visual studio 2015\Projects\WebRequestResponseHTTP\WebRequestResponseHTTP\bin\Debug\WebRequestResponseHTTP.pdb
+C:\Users\helldamn\documents\visual studio 2015\Projects\WebRequestResponseHTTP\WebRequestResponseHTTP\obj\Debug\WebRequestResponseHTTP.exe
+C:\Users\helldamn\documents\visual studio 2015\Projects\WebRequestResponseHTTP\WebRequestResponseHTTP\obj\Debug\WebRequestResponseHTTP.pdb
